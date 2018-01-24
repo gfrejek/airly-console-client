@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="airly-console-client:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/airly_console_client_jar</output-path>
+    <root id="archive" name="airly-console-client.jar">
+      <element id="module-output" name="airly-console-client" />
+      <element id="library" level="project" name="javax.json-1.0" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gson-2.8.2.jar" path-in-jar="/" />
+      <element id="library" level="project" name="javax.json-api-1.0-javadoc" />
+    </root>
+  </artifact>
+</component>
